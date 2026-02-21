@@ -1,0 +1,29 @@
+# Dependencies
+fw-react-challenge/node_modules/
+
+# Production build
+fw-react-challenge/dist/
+fw-react-challenge/dist-ssr/
+
+# Environment variables
+fw-react-challenge/.env
+fw-react-challenge/.env.local
+fw-react-challenge/.env.development.local
+fw-react-challenge/.env.test.local
+fw-react-challenge/.env.production.local
+
+# Logs
+fw-react-challenge/*.log
+fw-react-challenge/npm-debug.log*
+fw-react-challenge/yarn-debug.log*
+fw-react-challenge/yarn-error.log*
+fw-react-challenge/pnpm-debug.log*
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
